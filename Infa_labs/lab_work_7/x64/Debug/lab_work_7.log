@@ -1,0 +1,6 @@
+﻿  lab_work_7.cpp
+C:\Users\TopPachan\source\repos\Infa_labs\lab_work_7\lab_work_7.cpp(53,12): warning C4244: return: преобразование "WPARAM" в "int", возможна потеря данных
+C:\Users\TopPachan\source\repos\Infa_labs\lab_work_7\lab_work_7.cpp(69,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\TopPachan\source\repos\Infa_labs\lab_work_7\lab_work_7.cpp(135,81): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\TopPachan\source\repos\Infa_labs\lab_work_7\lab_work_7.cpp(143,61): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  lab_work_7.vcxproj -> C:\Users\TopPachan\source\repos\Infa_labs\lab_work_7\x64\Debug\lab_work_7.exe

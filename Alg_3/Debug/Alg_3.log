@@ -1,0 +1,8 @@
+﻿  Alg_3.cpp
+C:\Users\TopPachan\source\repos\Alg_3\Alg_3.cpp(146,10): warning C4018: >: несоответствие типов со знаком и без знака
+C:\Users\TopPachan\source\repos\Alg_3\Alg_3.cpp(152,18): warning C4018: >: несоответствие типов со знаком и без знака
+C:\Users\TopPachan\source\repos\Alg_3\Alg_3.cpp(164,10): warning C4018: >: несоответствие типов со знаком и без знака
+C:\Users\TopPachan\source\repos\Alg_3\Alg_3.cpp(170,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\TopPachan\source\repos\Alg_3\Alg_3.cpp(183,12): warning C4018: >: несоответствие типов со знаком и без знака
+C:\Users\TopPachan\source\repos\Alg_3\Alg_3.cpp(213,11): warning C4018: <: несоответствие типов со знаком и без знака
+  Alg_3.vcxproj -> C:\Users\TopPachan\source\repos\Alg_3\Debug\Alg_3.exe

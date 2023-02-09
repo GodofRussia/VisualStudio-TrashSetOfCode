@@ -1,0 +1,5 @@
+﻿  lab_work_1.cpp
+C:\Users\TopPachan\source\repos\Infa_labs\lab_work_1\lab_work_1.cpp(198): warning C4172: возвращение адреса локальной или временной переменной : cmp
+C:\Users\TopPachan\source\repos\Infa_labs\lab_work_1\lab_work_1.cpp(298): warning C4172: возвращение адреса локальной или временной переменной : cmp
+C:\Users\TopPachan\source\repos\Infa_labs\lab_work_1\lab_work_1.cpp(245): warning C4172: возвращение адреса локальной или временной переменной : cmp
+  lab_work_1.vcxproj -> C:\Users\TopPachan\source\repos\Infa_labs\lab_work_1\Debug\lab_work_1.exe

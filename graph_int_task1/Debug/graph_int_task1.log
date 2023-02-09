@@ -1,0 +1,11 @@
+﻿  ArcGraph.cpp
+  ListGraph.cpp
+C:\Users\TopPachan\source\repos\graph_int_task1\ListGraph.cpp(22,2): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\TopPachan\source\repos\graph_int_task1\ListGraph.cpp(23,2): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\TopPachan\source\repos\graph_int_task1\ListGraph.cpp(29,2): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\TopPachan\source\repos\graph_int_task1\ListGraph.cpp(34,2): warning C4018: <: несоответствие типов со знаком и без знака
+  SetGraph.cpp
+  graph_int_task1.cpp
+C:\Users\TopPachan\source\repos\graph_int_task1\graph_int_task1.cpp(29,21): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+  graph_int_task1.vcxproj -> C:\Users\TopPachan\source\repos\graph_int_task1\Debug\graph_int_task1.exe

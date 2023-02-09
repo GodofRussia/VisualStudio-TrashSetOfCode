@@ -1,0 +1,7 @@
+﻿  Source.cpp
+C:\Users\TopPachan\source\repos\Infa_labs\inf_lab_7app\Source.cpp(132,117): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\TopPachan\source\repos\Infa_labs\inf_lab_7app\Source.cpp(172,115): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\TopPachan\source\repos\Infa_labs\inf_lab_7app\Source.cpp(212,117): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\TopPachan\source\repos\Infa_labs\inf_lab_7app\Source.cpp(251,116): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\TopPachan\source\repos\Infa_labs\inf_lab_7app\Source.cpp(282,86): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  inf_lab_7app.vcxproj -> C:\Users\TopPachan\source\repos\Infa_labs\inf_lab_7app\Debug\inf_lab_7app.exe

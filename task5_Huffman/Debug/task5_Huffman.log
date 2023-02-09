@@ -1,0 +1,5 @@
+﻿  task5_Huffman.cpp
+C:\Users\TopPachan\source\repos\task5_Huffman\task5_Huffman.cpp(59,20): warning C4018: >: несоответствие типов со знаком и без знака
+C:\Users\TopPachan\source\repos\task5_Huffman\task5_Huffman.cpp(129,36): warning C4018: >: несоответствие типов со знаком и без знака
+C:\Users\TopPachan\source\repos\task5_Huffman\task5_Huffman.cpp(165,36): warning C4018: >: несоответствие типов со знаком и без знака
+  task5_Huffman.vcxproj -> C:\Users\TopPachan\source\repos\task5_Huffman\Debug\task5_Huffman.exe

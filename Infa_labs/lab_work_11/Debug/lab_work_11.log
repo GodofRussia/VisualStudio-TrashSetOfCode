@@ -1,0 +1,26 @@
+﻿  lab_work_11.cpp
+C:\Users\TopPachan\source\repos\Infa_labs\lab_work_11\lab_work_11.cpp(285,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\TopPachan\source\repos\Infa_labs\lab_work_11\lab_work_11.cpp(294,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\TopPachan\source\repos\Infa_labs\lab_work_11\lab_work_11.cpp(322,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\TopPachan\source\repos\Infa_labs\lab_work_11\lab_work_11.cpp(331,44): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\TopPachan\source\repos\Infa_labs\lab_work_11\lab_work_11.cpp(332,45): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\TopPachan\source\repos\Infa_labs\lab_work_11\lab_work_11.cpp(333,45): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\TopPachan\source\repos\Infa_labs\lab_work_11\lab_work_11.cpp(334,45): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\TopPachan\source\repos\Infa_labs\lab_work_11\lab_work_11.cpp(338,59): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\TopPachan\source\repos\Infa_labs\lab_work_11\lab_work_11.cpp(339,60): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\TopPachan\source\repos\Infa_labs\lab_work_11\lab_work_11.cpp(340,60): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\TopPachan\source\repos\Infa_labs\lab_work_11\lab_work_11.cpp(342,54): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\TopPachan\source\repos\Infa_labs\lab_work_11\lab_work_11.cpp(343,53): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\TopPachan\source\repos\Infa_labs\lab_work_11\lab_work_11.cpp(344,54): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\TopPachan\source\repos\Infa_labs\lab_work_11\lab_work_11.cpp(346,57): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\TopPachan\source\repos\Infa_labs\lab_work_11\lab_work_11.cpp(347,57): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\TopPachan\source\repos\Infa_labs\lab_work_11\lab_work_11.cpp(348,57): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\TopPachan\source\repos\Infa_labs\lab_work_11\lab_work_11.cpp(349,57): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\TopPachan\source\repos\Infa_labs\lab_work_11\lab_work_11.cpp(358,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\TopPachan\source\repos\Infa_labs\lab_work_11\lab_work_11.cpp(363,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\TopPachan\source\repos\Infa_labs\lab_work_11\lab_work_11.cpp(367,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\TopPachan\source\repos\Infa_labs\lab_work_11\lab_work_11.cpp(371,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\TopPachan\source\repos\Infa_labs\lab_work_11\lab_work_11.cpp(13,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\TopPachan\source\repos\Infa_labs\lab_work_11\lab_work_11.cpp(378): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::vector<Vehicle *,std::allocator<Vehicle *>> operator +<Vehicle*>(const std::vector<Vehicle *,std::allocator<Vehicle *>> &,const std::vector<Vehicle *,std::allocator<Vehicle *>> &)"
+C:\Users\TopPachan\source\repos\Infa_labs\lab_work_11\lab_work_11.cpp(16,23): warning C4018: <: несоответствие типов со знаком и без знака
+  lab_work_11.vcxproj -> C:\Users\TopPachan\source\repos\Infa_labs\lab_work_11\Debug\lab_work_11.exe

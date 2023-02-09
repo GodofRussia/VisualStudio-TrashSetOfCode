@@ -1,0 +1,3 @@
+﻿  lab_work_6.cpp
+C:\Users\TopPachan\source\repos\Infa_labs\lab_work_6\lab_work_6.cpp(51,40): error C2760: синтаксическая ошибка: непредвиденный токен ","; требуется ")"
+C:\Users\TopPachan\source\repos\Infa_labs\lab_work_6\lab_work_6.cpp(74,1): error C2760: синтаксическая ошибка: непредвиденный токен "}"; требуется ";"

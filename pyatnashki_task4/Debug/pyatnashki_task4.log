@@ -1,0 +1,3 @@
+﻿  pyatnashki_task4.cpp
+C:\Users\TopPachan\source\repos\pyatnashki_task4\pyatnashki_task4.cpp(91,15): warning C4267: =: преобразование из "size_t" в "char"; возможна потеря данных
+  pyatnashki_task4.vcxproj -> C:\Users\TopPachan\source\repos\pyatnashki_task4\Debug\pyatnashki_task4.exe

@@ -1,0 +1,3 @@
+﻿  tipis3.cpp
+C:\Users\TopPachan\source\repos\tipis3\tipis3.cpp(167,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  tipis3.vcxproj -> C:\Users\TopPachan\source\repos\tipis3\Debug\tipis3.exe

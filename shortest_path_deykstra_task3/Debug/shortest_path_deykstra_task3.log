@@ -1,0 +1,8 @@
+﻿  shortest_path_deykstra_task3.cpp
+C:\Users\TopPachan\source\repos\shortest_path_deykstra_task3\shortest_path_deykstra_task3.cpp(55,2): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\TopPachan\source\repos\shortest_path_deykstra_task3\shortest_path_deykstra_task3.cpp(56,2): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\TopPachan\source\repos\shortest_path_deykstra_task3\shortest_path_deykstra_task3.cpp(64,2): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\TopPachan\source\repos\shortest_path_deykstra_task3\shortest_path_deykstra_task3.cpp(66,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\TopPachan\source\repos\shortest_path_deykstra_task3\shortest_path_deykstra_task3.cpp(74,2): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\TopPachan\source\repos\shortest_path_deykstra_task3\shortest_path_deykstra_task3.cpp(91,21): warning C4018: <: несоответствие типов со знаком и без знака
+  shortest_path_deykstra_task3.vcxproj -> C:\Users\TopPachan\source\repos\shortest_path_deykstra_task3\Debug\shortest_path_deykstra_task3.exe

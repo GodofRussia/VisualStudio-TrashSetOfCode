@@ -1,0 +1,18 @@
+﻿  2rk1.cpp
+C:\Users\TopPachan\source\repos\2rk1\2rk1.cpp(15,1): error C3409: пустой блок атрибута не допускается
+C:\Users\TopPachan\source\repos\2rk1\2rk1.cpp(107): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "BinaryTree<int,IntCmp>"
+C:\Users\TopPachan\source\repos\2rk1\2rk1.cpp(15,19): error C2143: синтаксическая ошибка: отсутствие "]" перед "&"
+C:\Users\TopPachan\source\repos\2rk1\2rk1.cpp(15,19): error C2059: синтаксическая ошибка: &
+C:\Users\TopPachan\source\repos\2rk1\2rk1.cpp(15,1): error C2144: синтаксическая ошибка: перед "void" требуется ")"
+C:\Users\TopPachan\source\repos\2rk1\2rk1.cpp(15,1): error C2144: синтаксическая ошибка: перед "void" требуется ";"
+C:\Users\TopPachan\source\repos\2rk1\2rk1.cpp(15,1): error C2059: синтаксическая ошибка: )
+C:\Users\TopPachan\source\repos\2rk1\2rk1.cpp(15,1): error C2269: невозможно создать указатель или ссылку на тип квалифицированной функции (требуется указатель на элемент)
+C:\Users\TopPachan\source\repos\2rk1\2rk1.cpp(27,1): error C3409: пустой блок атрибута не допускается
+C:\Users\TopPachan\source\repos\2rk1\2rk1.cpp(27,31): error C2143: синтаксическая ошибка: отсутствие "]" перед "&"
+C:\Users\TopPachan\source\repos\2rk1\2rk1.cpp(27,31): error C2059: синтаксическая ошибка: &
+C:\Users\TopPachan\source\repos\2rk1\2rk1.cpp(27,1): error C2144: синтаксическая ошибка: перед "void" требуется ")"
+C:\Users\TopPachan\source\repos\2rk1\2rk1.cpp(27,1): error C2144: синтаксическая ошибка: перед "void" требуется ";"
+C:\Users\TopPachan\source\repos\2rk1\2rk1.cpp(27,1): error C2059: синтаксическая ошибка: )
+C:\Users\TopPachan\source\repos\2rk1\2rk1.cpp(27,1): error C2269: невозможно создать указатель или ссылку на тип квалифицированной функции (требуется указатель на элемент)
+C:\Users\TopPachan\source\repos\2rk1\2rk1.cpp(110,6): error C2660: BinaryTree<int,IntCmp>::DfsInOrder: функция не принимает 1 аргументов
+C:\Users\TopPachan\source\repos\2rk1\2rk1.cpp(15,7): message : см. объявление "BinaryTree<int,IntCmp>::DfsInOrder"

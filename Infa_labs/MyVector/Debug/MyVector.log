@@ -1,0 +1,108 @@
+﻿  MyVector.cpp
+C:\Users\TopPachan\source\repos\Infa_labs\MyVector\MyVector.cpp(8,1): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\TopPachan\source\repos\Infa_labs\MyVector\MyVector.cpp(47): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "MyVector<TypeOfElement>"
+C:\Users\TopPachan\source\repos\Infa_labs\MyVector\MyVector.cpp(8,1): warning C4183: ​MyVector: отсутствие возвращаемого типа; предполагается функция-член, возвращающая "int"
+C:\Users\TopPachan\source\repos\Infa_labs\MyVector\MyVector.cpp(14,1): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\TopPachan\source\repos\Infa_labs\MyVector\MyVector.cpp(14,1): warning C4183: ​MyVector: отсутствие возвращаемого типа; предполагается функция-член, возвращающая "int"
+C:\Users\TopPachan\source\repos\Infa_labs\MyVector\MyVector.cpp(23,5): error C2143: синтаксическая ошибка: отсутствие ";" перед "~"
+C:\Users\TopPachan\source\repos\Infa_labs\MyVector\MyVector.cpp(23,1): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\TopPachan\source\repos\Infa_labs\MyVector\MyVector.cpp(27,10): error C3646: PushBack: неизвестный спецификатор переопределения
+C:\Users\TopPachan\source\repos\Infa_labs\MyVector\MyVector.cpp(27,18): error C2059: синтаксическая ошибка: (
+C:\Users\TopPachan\source\repos\Infa_labs\MyVector\MyVector.cpp(27,1): error C2238: непредвиденные лексемы перед ";"
+C:\Users\TopPachan\source\repos\Infa_labs\MyVector\MyVector.cpp(28,18): error C2143: синтаксическая ошибка: отсутствие ";" перед "&"
+C:\Users\TopPachan\source\repos\Infa_labs\MyVector\MyVector.cpp(28,1): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\TopPachan\source\repos\Infa_labs\MyVector\MyVector.cpp(28,1): error C2238: непредвиденные лексемы перед ";"
+C:\Users\TopPachan\source\repos\Infa_labs\MyVector\MyVector.cpp(29,10): error C3646: IsEmpty: неизвестный спецификатор переопределения
+C:\Users\TopPachan\source\repos\Infa_labs\MyVector\MyVector.cpp(29,17): error C2059: синтаксическая ошибка: (
+C:\Users\TopPachan\source\repos\Infa_labs\MyVector\MyVector.cpp(29,1): error C2238: непредвиденные лексемы перед ";"
+C:\Users\TopPachan\source\repos\Infa_labs\MyVector\MyVector.cpp(30,9): error C3646: Length: неизвестный спецификатор переопределения
+C:\Users\TopPachan\source\repos\Infa_labs\MyVector\MyVector.cpp(30,15): error C2059: синтаксическая ошибка: (
+C:\Users\TopPachan\source\repos\Infa_labs\MyVector\MyVector.cpp(30,1): error C2238: непредвиденные лексемы перед ";"
+C:\Users\TopPachan\source\repos\Infa_labs\MyVector\MyVector.cpp(31,9): error C3646: Capacity: неизвестный спецификатор переопределения
+C:\Users\TopPachan\source\repos\Infa_labs\MyVector\MyVector.cpp(31,17): error C2059: синтаксическая ошибка: (
+C:\Users\TopPachan\source\repos\Infa_labs\MyVector\MyVector.cpp(31,1): error C2238: непредвиденные лексемы перед ";"
+C:\Users\TopPachan\source\repos\Infa_labs\MyVector\MyVector.cpp(32,10): error C3646: InputMyVector: неизвестный спецификатор переопределения
+C:\Users\TopPachan\source\repos\Infa_labs\MyVector\MyVector.cpp(32,23): error C2059: синтаксическая ошибка: (
+C:\Users\TopPachan\source\repos\Infa_labs\MyVector\MyVector.cpp(32,1): error C2238: непредвиденные лексемы перед ";"
+C:\Users\TopPachan\source\repos\Infa_labs\MyVector\MyVector.cpp(33,10): error C3646: OutputMyVector: неизвестный спецификатор переопределения
+C:\Users\TopPachan\source\repos\Infa_labs\MyVector\MyVector.cpp(33,24): error C2059: синтаксическая ошибка: (
+C:\Users\TopPachan\source\repos\Infa_labs\MyVector\MyVector.cpp(33,1): error C2238: непредвиденные лексемы перед ";"
+C:\Users\TopPachan\source\repos\Infa_labs\MyVector\MyVector.cpp(34,14): error C2143: синтаксическая ошибка: отсутствие ";" перед "<"
+C:\Users\TopPachan\source\repos\Infa_labs\MyVector\MyVector.cpp(34,1): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\TopPachan\source\repos\Infa_labs\MyVector\MyVector.cpp(34,1): error C2238: непредвиденные лексемы перед ";"
+C:\Users\TopPachan\source\repos\Infa_labs\MyVector\MyVector.cpp(35,18): error C2143: синтаксическая ошибка: отсутствие ";" перед "&"
+C:\Users\TopPachan\source\repos\Infa_labs\MyVector\MyVector.cpp(35,1): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\TopPachan\source\repos\Infa_labs\MyVector\MyVector.cpp(35,1): error C2334: непредвиденные лексемы перед "{"; пропуск вероятного тела функции
+C:\Users\TopPachan\source\repos\Infa_labs\MyVector\MyVector.cpp(39,14): error C2143: синтаксическая ошибка: отсутствие ";" перед "<"
+C:\Users\TopPachan\source\repos\Infa_labs\MyVector\MyVector.cpp(39,1): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\TopPachan\source\repos\Infa_labs\MyVector\MyVector.cpp(39,1): error C2238: непредвиденные лексемы перед ";"
+C:\Users\TopPachan\source\repos\Infa_labs\MyVector\MyVector.cpp(40,10): error C3646: SetSize: неизвестный спецификатор переопределения
+C:\Users\TopPachan\source\repos\Infa_labs\MyVector\MyVector.cpp(40,17): error C2059: синтаксическая ошибка: (
+C:\Users\TopPachan\source\repos\Infa_labs\MyVector\MyVector.cpp(40,1): error C2238: непредвиденные лексемы перед ";"
+C:\Users\TopPachan\source\repos\Infa_labs\MyVector\MyVector.cpp(43,10): error C3646: UpCapacity: неизвестный спецификатор переопределения
+C:\Users\TopPachan\source\repos\Infa_labs\MyVector\MyVector.cpp(43,20): error C2059: синтаксическая ошибка: (
+C:\Users\TopPachan\source\repos\Infa_labs\MyVector\MyVector.cpp(43,1): error C2238: непредвиденные лексемы перед ";"
+C:\Users\TopPachan\source\repos\Infa_labs\MyVector\MyVector.cpp(44,9): error C3646: length: неизвестный спецификатор переопределения
+C:\Users\TopPachan\source\repos\Infa_labs\MyVector\MyVector.cpp(44,1): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\TopPachan\source\repos\Infa_labs\MyVector\MyVector.cpp(45,9): error C3646: capacity: неизвестный спецификатор переопределения
+C:\Users\TopPachan\source\repos\Infa_labs\MyVector\MyVector.cpp(45,1): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\TopPachan\source\repos\Infa_labs\MyVector\MyVector.cpp(46,18): error C2143: синтаксическая ошибка: отсутствие ";" перед "*"
+C:\Users\TopPachan\source\repos\Infa_labs\MyVector\MyVector.cpp(46,1): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\TopPachan\source\repos\Infa_labs\MyVector\MyVector.cpp(46,1): error C2238: непредвиденные лексемы перед ";"
+C:\Users\TopPachan\source\repos\Infa_labs\MyVector\MyVector.cpp(13,2): error C2760: синтаксическая ошибка: непредвиденный токен "}"; требуется ";"
+C:\Users\TopPachan\source\repos\Infa_labs\MyVector\MyVector.cpp(16,17): error C2760: синтаксическая ошибка: непредвиденный токен "идентификатор"; требуется "выражение"
+C:\Users\TopPachan\source\repos\Infa_labs\MyVector\MyVector.cpp(24,16): error C2760: синтаксическая ошибка: непредвиденный токен "]"; требуется "выражение"
+C:\Users\TopPachan\source\repos\Infa_labs\MyVector\MyVector.cpp(51,31): error C2039: "UpCapacity": не является членом "MyVector<TypeOfElement>".
+C:\Users\TopPachan\source\repos\Infa_labs\MyVector\MyVector.cpp(51,1): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+C:\Users\TopPachan\source\repos\Infa_labs\MyVector\MyVector.cpp(65,31): error C2039: "PushBack": не является членом "MyVector<TypeOfElement>".
+C:\Users\TopPachan\source\repos\Infa_labs\MyVector\MyVector.cpp(65,1): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+C:\Users\TopPachan\source\repos\Infa_labs\MyVector\MyVector.cpp(72,31): error C2039: "IsEmpty": не является членом "MyVector<TypeOfElement>".
+C:\Users\TopPachan\source\repos\Infa_labs\MyVector\MyVector.cpp(72,1): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+C:\Users\TopPachan\source\repos\Infa_labs\MyVector\MyVector.cpp(78,41): error C2039: "[]": не является членом "MyVector<TypeOfElement>".
+C:\Users\TopPachan\source\repos\Infa_labs\MyVector\MyVector.cpp(78,1): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+C:\Users\TopPachan\source\repos\Infa_labs\MyVector\MyVector.cpp(83,30): error C2039: "Length": не является членом "MyVector<TypeOfElement>".
+C:\Users\TopPachan\source\repos\Infa_labs\MyVector\MyVector.cpp(83,1): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+C:\Users\TopPachan\source\repos\Infa_labs\MyVector\MyVector.cpp(88,30): error C2039: "Capacity": не является членом "MyVector<TypeOfElement>".
+C:\Users\TopPachan\source\repos\Infa_labs\MyVector\MyVector.cpp(88,1): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+C:\Users\TopPachan\source\repos\Infa_labs\MyVector\MyVector.cpp(93,31): error C2039: "InputMyVector": не является членом "MyVector<TypeOfElement>".
+C:\Users\TopPachan\source\repos\Infa_labs\MyVector\MyVector.cpp(93,1): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+C:\Users\TopPachan\source\repos\Infa_labs\MyVector\MyVector.cpp(96,13): error C3873: "0xbb": этот символ недопустим как первый символ идентификатора
+C:\Users\TopPachan\source\repos\Infa_labs\MyVector\MyVector.cpp(103,31): error C2039: "OutputMyVector": не является членом "MyVector<TypeOfElement>".
+C:\Users\TopPachan\source\repos\Infa_labs\MyVector\MyVector.cpp(103,1): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+C:\Users\TopPachan\source\repos\Infa_labs\MyVector\MyVector.cpp(105,14): error C3873: "0xab": этот символ недопустим как первый символ идентификатора
+C:\Users\TopPachan\source\repos\Infa_labs\MyVector\MyVector.cpp(105,30): error C3873: "0xab": этот символ недопустим как первый символ идентификатора
+C:\Users\TopPachan\source\repos\Infa_labs\MyVector\MyVector.cpp(111,53): error C2039: "=": не является членом "MyVector<TypeOfElement>".
+C:\Users\TopPachan\source\repos\Infa_labs\MyVector\MyVector.cpp(111,1): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+C:\Users\TopPachan\source\repos\Infa_labs\MyVector\MyVector.cpp(124,31): error C2039: "SetSize": не является членом "MyVector<TypeOfElement>".
+C:\Users\TopPachan\source\repos\Infa_labs\MyVector\MyVector.cpp(124,1): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+C:\Users\TopPachan\source\repos\Infa_labs\MyVector\MyVector.cpp(135,51): error C2039: "+": не является членом "MyVector<TypeOfElement>".
+C:\Users\TopPachan\source\repos\Infa_labs\MyVector\MyVector.cpp(135,1): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+C:\Users\TopPachan\source\repos\Infa_labs\MyVector\MyVector.cpp(155,12): error C2760: синтаксическая ошибка: непредвиденный токен "идентификатор"; требуется ";"
+C:\Users\TopPachan\source\repos\Infa_labs\MyVector\MyVector.cpp(162,2): error C3861: ​setlocale: идентификатор не найден
+C:\Users\TopPachan\source\repos\Infa_labs\MyVector\MyVector.cpp(163,2): error C2065: ​MyVector: необъявленный идентификатор
+C:\Users\TopPachan\source\repos\Infa_labs\MyVector\MyVector.cpp(163,14): error C2062: тип "int" не требуется
+C:\Users\TopPachan\source\repos\Infa_labs\MyVector\MyVector.cpp(164,2): error C2065: ​MyVector: необъявленный идентификатор
+C:\Users\TopPachan\source\repos\Infa_labs\MyVector\MyVector.cpp(164,14): error C2062: тип "int" не требуется
+C:\Users\TopPachan\source\repos\Infa_labs\MyVector\MyVector.cpp(165,2): error C2065: ​int: необъявленный идентификатор
+C:\Users\TopPachan\source\repos\Infa_labs\MyVector\MyVector.cpp(165,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "n"
+C:\Users\TopPachan\source\repos\Infa_labs\MyVector\MyVector.cpp(165,9): error C2065: n: необъявленный идентификатор
+C:\Users\TopPachan\source\repos\Infa_labs\MyVector\MyVector.cpp(165,12): error C2065: m: необъявленный идентификатор
+C:\Users\TopPachan\source\repos\Infa_labs\MyVector\MyVector.cpp(166,2): error C2065: ​cout: необъявленный идентификатор
+C:\Users\TopPachan\source\repos\Infa_labs\MyVector\MyVector.cpp(167,2): error C2065: ​cin: необъявленный идентификатор
+C:\Users\TopPachan\source\repos\Infa_labs\MyVector\MyVector.cpp(167,12): error C2065: n: необъявленный идентификатор
+C:\Users\TopPachan\source\repos\Infa_labs\MyVector\MyVector.cpp(167,17): error C2065: m: необъявленный идентификатор
+C:\Users\TopPachan\source\repos\Infa_labs\MyVector\MyVector.cpp(168,2): error C2065: ​cout: необъявленный идентификатор
+C:\Users\TopPachan\source\repos\Infa_labs\MyVector\MyVector.cpp(169,2): error C2065: ​vec1: необъявленный идентификатор
+C:\Users\TopPachan\source\repos\Infa_labs\MyVector\MyVector.cpp(169,24): error C2065: vec1: необъявленный идентификатор
+C:\Users\TopPachan\source\repos\Infa_labs\MyVector\MyVector.cpp(169,30): error C2065: n: необъявленный идентификатор
+C:\Users\TopPachan\source\repos\Infa_labs\MyVector\MyVector.cpp(170,2): error C2065: ​cout: необъявленный идентификатор
+C:\Users\TopPachan\source\repos\Infa_labs\MyVector\MyVector.cpp(171,2): error C2065: ​vec2: необъявленный идентификатор
+C:\Users\TopPachan\source\repos\Infa_labs\MyVector\MyVector.cpp(171,24): error C2065: vec2: необъявленный идентификатор
+C:\Users\TopPachan\source\repos\Infa_labs\MyVector\MyVector.cpp(171,30): error C2065: m: необъявленный идентификатор
+C:\Users\TopPachan\source\repos\Infa_labs\MyVector\MyVector.cpp(172,2): error C2065: ​MyVector: необъявленный идентификатор
+C:\Users\TopPachan\source\repos\Infa_labs\MyVector\MyVector.cpp(172,14): error C2062: тип "int" не требуется
+C:\Users\TopPachan\source\repos\Infa_labs\MyVector\MyVector.cpp(173,2): error C2065: ​cout: необъявленный идентификатор
+C:\Users\TopPachan\source\repos\Infa_labs\MyVector\MyVector.cpp(174,2): error C2065: ​vec3: необъявленный идентификатор
+C:\Users\TopPachan\source\repos\Infa_labs\MyVector\MyVector.cpp(174,25): error C2065: vec3: необъявленный идентификатор
+C:\Users\TopPachan\source\repos\Infa_labs\MyVector\MyVector.cpp(175,2): error C2065: ​return: необъявленный идентификатор
+C:\Users\TopPachan\source\repos\Infa_labs\MyVector\MyVector.cpp(175,12): error C2143: синтаксическая ошибка: отсутствие ";" перед "константа"

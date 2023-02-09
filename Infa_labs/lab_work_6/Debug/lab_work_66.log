@@ -1,0 +1,3 @@
+﻿  lab_work_66.cpp
+C:\Users\TopPachan\source\repos\Infa_labs\lab_work_6\lab_work_66.cpp(208): warning C4715: List<char *>::operator[]: значение возвращается не при всех путях выполнения
+  lab_work_66.vcxproj -> C:\Users\TopPachan\source\repos\Infa_labs\lab_work_6\Debug\lab_work_66.exe

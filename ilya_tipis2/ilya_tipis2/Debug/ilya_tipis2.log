@@ -1,0 +1,3 @@
+﻿  ilya_tipis2.cpp
+C:\Users\TopPachan\source\repos\ilya_tipis2\ilya_tipis2\ilya_tipis2.cpp(166,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  ilya_tipis2.vcxproj -> C:\Users\TopPachan\source\repos\ilya_tipis2\Debug\ilya_tipis2.exe

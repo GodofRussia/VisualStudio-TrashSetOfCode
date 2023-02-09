@@ -1,0 +1,6 @@
+﻿  shortest_paths_task2.cpp
+C:\Users\TopPachan\source\repos\shortest_paths_task2\shortest_paths_task2.cpp(44,2): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\TopPachan\source\repos\shortest_paths_task2\shortest_paths_task2.cpp(45,2): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\TopPachan\source\repos\shortest_paths_task2\shortest_paths_task2.cpp(51,2): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\TopPachan\source\repos\shortest_paths_task2\shortest_paths_task2.cpp(67,21): warning C4018: <: несоответствие типов со знаком и без знака
+  shortest_paths_task2.vcxproj -> C:\Users\TopPachan\source\repos\shortest_paths_task2\Debug\shortest_paths_task2.exe

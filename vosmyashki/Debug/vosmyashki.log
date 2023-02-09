@@ -1,0 +1,5 @@
+﻿  vosmyashki.cpp
+C:\Users\TopPachan\source\repos\vosmyashki\vosmyashki.cpp(69,15): warning C4267: =: преобразование из "size_t" в "char"; возможна потеря данных
+C:\Users\TopPachan\source\repos\vosmyashki\vosmyashki.cpp(206,19): warning C4099: StateHasher: имя типа, ранее отображенное с помощью "struct", теперь отображено с помощью "class"
+C:\Users\TopPachan\source\repos\vosmyashki\vosmyashki.cpp(206): message : см. объявление "StateHasher"
+  vosmyashki.vcxproj -> C:\Users\TopPachan\source\repos\vosmyashki\Debug\vosmyashki.exe

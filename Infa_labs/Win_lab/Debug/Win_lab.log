@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\TopPachan\source\repos\Infa_labs\Win_lab\Source.cpp(121,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\TopPachan\source\repos\Infa_labs\Win_lab\Source.cpp(211,61): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\TopPachan\source\repos\Infa_labs\Win_lab\Source.cpp(211,24): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  Win_lab.vcxproj -> C:\Users\TopPachan\source\repos\Infa_labs\Win_lab\Debug\Win_lab.exe

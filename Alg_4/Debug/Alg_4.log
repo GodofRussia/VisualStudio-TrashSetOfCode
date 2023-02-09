@@ -1,0 +1,38 @@
+﻿  Alg_4.cpp
+C:\Users\TopPachan\source\repos\Alg_4\Alg_4.cpp(51,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\TopPachan\source\repos\Alg_4\Alg_4.cpp(69,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\TopPachan\source\repos\Alg_4\Alg_4.cpp(74,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\TopPachan\source\repos\Alg_4\Alg_4.cpp(77,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\TopPachan\source\repos\Alg_4\Alg_4.cpp(79,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\TopPachan\source\repos\Alg_4\Alg_4.cpp(89,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\TopPachan\source\repos\Alg_4\Alg_4.cpp(96,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\TopPachan\source\repos\Alg_4\Alg_4.cpp(97,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\TopPachan\source\repos\Alg_4\Alg_4.cpp(102,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\TopPachan\source\repos\Alg_4\Alg_4.cpp(105,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\TopPachan\source\repos\Alg_4\Alg_4.cpp(117,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\TopPachan\source\repos\Alg_4\Alg_4.cpp(121,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\TopPachan\source\repos\Alg_4\Alg_4.cpp(123,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\TopPachan\source\repos\Alg_4\Alg_4.cpp(125,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\TopPachan\source\repos\Alg_4\Alg_4.cpp(129,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\TopPachan\source\repos\Alg_4\Alg_4.cpp(135,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\TopPachan\source\repos\Alg_4\Alg_4.cpp(136,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\TopPachan\source\repos\Alg_4\Alg_4.cpp(139,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\TopPachan\source\repos\Alg_4\Alg_4.cpp(140,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\TopPachan\source\repos\Alg_4\Alg_4.cpp(147,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\TopPachan\source\repos\Alg_4\Alg_4.cpp(155,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\TopPachan\source\repos\Alg_4\Alg_4.cpp(160,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\TopPachan\source\repos\Alg_4\Alg_4.cpp(168,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\TopPachan\source\repos\Alg_4\Alg_4.cpp(174,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\TopPachan\source\repos\Alg_4\Alg_4.cpp(175,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\TopPachan\source\repos\Alg_4\Alg_4.cpp(185,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\TopPachan\source\repos\Alg_4\Alg_4.cpp(186,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\TopPachan\source\repos\Alg_4\Alg_4.cpp(195,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\TopPachan\source\repos\Alg_4\Alg_4.cpp(207,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\TopPachan\source\repos\Alg_4\Alg_4.cpp(212,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\TopPachan\source\repos\Alg_4\Alg_4.cpp(222,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\TopPachan\source\repos\Alg_4\Alg_4.cpp(226,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\TopPachan\source\repos\Alg_4\Alg_4.cpp(231,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\TopPachan\source\repos\Alg_4\Alg_4.cpp(232,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\TopPachan\source\repos\Alg_4\Alg_4.cpp(236,21): warning C4018: <: несоответствие типов со знаком и без знака
+Alg_4.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: virtual void __thiscall Algorithm::Run(void)" (?Run@Algorithm@@UAEXXZ) в функции "public: virtual void __thiscall LittleAlgorithm::Run(void)" (?Run@LittleAlgorithm@@UAEXXZ).
+C:\Users\TopPachan\source\repos\Alg_4\Debug\Alg_4.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
